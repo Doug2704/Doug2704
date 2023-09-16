@@ -21,8 +21,8 @@ Sou um entusiasta da programação que está em busca de oportunidades no mundo 
 
 Se você está interessado em trabalhar comigo ou colaborar em projetos, fique à vontade para entrar em contato:
 
-- LinkedIn: [meu LinkedIn](https://www.linkedin.com/in/douglas-candido-5749a0287)
-- Email: [email](doug.candido2704@gmail.com)
+- [meu LinkedIn](https://www.linkedin.com/in/douglas-candido-5749a0287)
+- [meu email](doug.candido2704@gmail.com)
 
 ## Estatísticas do GitHub
 
