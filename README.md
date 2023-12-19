@@ -13,10 +13,10 @@ Sou um entusiasta da programação que está em busca de oportunidades no mundo 
 
 ## Linguagens e Ferramentas
 
-- Java
-- Git
-- SQL
-- 
+- Linguagem de Programação Java
+- Versionamento de Código Git
+- Banco de Dados Relacional MySQL
+- HTML e CSS
 ## Contato
 
 Se você está interessado em trabalhar comigo ou colaborar em projetos, fique à vontade para entrar em contato:
