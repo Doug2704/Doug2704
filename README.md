@@ -2,16 +2,21 @@
 
 Bem-vindo ao meu perfil!
 
-Sou um desenvolvedor dedicado a criar soluções criativas e eficazes. Contribuo com projetos voluntários e estou desenvolvendo minhas próprias iniciativas, sempre buscando aprender e evoluir. No momento, estou em busca da minha primeira oportunidade profissional para aplicar e expandir meu conhecimento de forma mais ampla.
+Sou um desenvolvedor focado em criar soluções eficientes, seguras e escaláveis. Atualmente atuo como freelancer em um projeto de terceiro e participo de projetos voluntários, sempre buscando aprimorar minhas habilidades em APIs, bancos de dados e arquitetura de software. Porém, busco minha primeira oportunidade profissional onde eu possa contribuir e evoluir minhas habilidades.
 
 ## Sobre Mim
 
 - 🔭 Atualmente, estou cursando Gestão de Tecnologia da informação pela Faculdade Internacional da Paraíba.
-- 💼 Sou desenvolvedor Back-End voluntário no projeto Codigo Certo Coders desde Julho de 2024.
+- 💼 Sou desenvolvedor Back-End volutário/freelancer.
 - 🌱 Estou sempre em busca de novos conhecimentos e desafios para me aprimorar como desenvolvedor.
 - 🤝 Estou interessado em networking e em aprender com outros desenvolvedores.
 
-## Linguagens e Ferramentas que Uso e que Estudo
+## Contato
+
+[![Perfil DIO](https://img.shields.io/badge/-Meu%20Perfil%20na%20DIO-0077B5?style=for-the-badge&logo=gitbook&logoColor=black)](https://www.dio.me/users/doug_candido2704) [![whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5583981025975
+) [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/douglas-candido-5749a0287) [![email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:doug.candido2704@gmail.com)
+
+## Minhas Tecnologias
 
 <div style="display: inline_block">
 
@@ -21,9 +26,11 @@ Sou um desenvolvedor dedicado a criar soluções criativas e eficazes. Contribuo
 <img align="center" alt="MySql" src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white"/>
 <img align="center" alt="git" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white"/>
 <img align="center" alt="git" src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/>
+<img align="center" alt="git" src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white"/>
+
 </div>
 
-## Linguagens e Ferramentas que Tenho Interesse
+## Meus Interesses
 
 <div style="display: inline_block">
 <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
@@ -34,16 +41,6 @@ Sou um desenvolvedor dedicado a criar soluções criativas e eficazes. Contribuo
 <img align="center" alt="python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"/>
 <img align="center" alt="python" src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white"/>
 </div>
-
-## Contato
-
-Se você está interessado em trabalhar comigo ou colaborar em projetos, fique à vontade para entrar em contato:
-
-[![whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5583981025975
-)
-[![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/douglas-candido-5749a0287)
-[![email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:doug.candido2704@gmail.com)
-
 
 ## Estatísticas do GitHub
 
