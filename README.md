@@ -7,7 +7,7 @@ Sou um desenvolvedor focado em criar soluções eficientes, seguras e escalávei
 ## Sobre Mim
 
 - 🔭 Atualmente, estou cursando Gestão de Tecnologia da informação pela Faculdade Internacional da Paraíba.
-- 💼 Sou desenvolvedor Back-End volutário/freelancer.
+- 💼 Sou desenvolvedor Back-End voluntário/freelancer.
 - 🌱 Estou sempre em busca de novos conhecimentos e desafios para me aprimorar como desenvolvedor.
 - 🤝 Estou interessado em networking e em aprender com outros desenvolvedores.
 
