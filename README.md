@@ -2,7 +2,7 @@
 
 Bem-vindo ao meu perfil!
 
-Sou um desenvolvedor focado em criar soluções eficientes, seguras e escaláveis. Atualmente atuo como freelancer em um projeto de terceiro e participo de projetos voluntários, sempre buscando aprimorar minhas habilidades em APIs, bancos de dados e arquitetura de software. Porém, busco minha primeira oportunidade profissional onde eu possa contribuir e evoluir minhas habilidades.
+Sou um desenvolvedor focado em criar soluções eficientes, seguras e escaláveis. Atualmente atuo como freelancer em um projeto de terceiro e participo de projetos voluntários, sempre buscando aprimorar minhas habilidades em APIs, bancos de dados e arquitetura de software.
 
 ## Sobre Mim
 
