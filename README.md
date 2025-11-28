@@ -42,12 +42,6 @@ Sou um desenvolvedor focado em criar soluções eficientes, seguras e escalávei
 <img align="center" alt="python" src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white"/>
 </div>
 
-## Estatísticas do GitHub
-
-
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=Doug2704&show_icons=true&theme=dracula)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=doug2704)](https://github.com/doug2704/github-readme-stats)
-
 
 Estou animado para fazer parte da comunidade GitHub e continuar minha jornada de aprendizado em desenvolvimento backend Java. Vamos nos conectar e criar coisas incríveis juntos!
 
