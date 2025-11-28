@@ -2,7 +2,7 @@
 
 Bem-vindo ao meu perfil!
 
-Sou um desenvolvedor focado em criar soluções eficientes, seguras e escaláveis. Atualmente atuo como freelancer em um projeto de terceiro e participo de projetos voluntários, sempre buscando aprimorar minhas habilidades em APIs, bancos de dados e arquitetura de software.
+Sou um desenvolvedor focado em criar soluções eficientes, seguras e escaláveis. Tenho experiência em projetos voluntários, sempre buscando aprimorar minhas habilidades em APIs, bancos de dados e arquitetura de software.
 
 ## Sobre Mim
 
@@ -13,7 +13,7 @@ Sou um desenvolvedor focado em criar soluções eficientes, seguras e escalávei
 
 ## Contato
 
-[![Perfil DIO](https://img.shields.io/badge/-Meu%20Perfil%20na%20DIO-0077B5?style=for-the-badge&logo=gitbook&logoColor=black)](https://www.dio.me/users/doug_candido2704) [![whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5583981025975
+[![whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5583981025975
 ) [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/douglas-candido-5749a0287) [![email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:doug.candido2704@gmail.com)
 
 ## Minhas Tecnologias
