@@ -8,7 +8,7 @@ Atuei como **desenvolvedor voluntário** em algumas iniciativas, contribuindo te
 
 ## 👨‍💻 Sobre Mim
 
-- 🎓 Cursando **Gestão de Tecnologia da Informação** pela Faculdade Internacional da Paraíba  
+- 🎓 Formado em **Gestão de Tecnologia da Informação** pela Faculdade Internacional da Paraíba - FPB  
 - 💼 Desenvolvedor **Back-end** com conhecimento em **Front-end** 
 - 📚 Aprendizado contínuo com foco em código limpo e boas práticas  
 - 🤝 Aberto a networking e oportunidades profissionais  
@@ -19,7 +19,6 @@ Atuei como **desenvolvedor voluntário** em algumas iniciativas, contribuindo te
 
 ### 🔹 Desenvolvimento de APIs (Back-end)
 - Implementação de endpoints REST com **Java e Spring Boot**
-- Criação de operações CRUD
 - Validação de dados e tratamento de exceções
 - Estruturação de camadas (Controller, Service, Repository)
 - Integração com bancos de dados relacionais (**PostgreSQL, MySQL, SQLite**)
